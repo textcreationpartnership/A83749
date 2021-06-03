@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new declaration concerning the King, from the Commons of England, assembled at Westminster; and the proclamation of the Lord Generall Fairfax, and the rest of the commissioners appointed for tryall of the King, to be proclaimed by a herald of arms, to the City and kingdom, concerning their sitting in VVestminster Hall this present VVednesday, in order to the tryall, and prosecuting of their charge against Charles Stuart, King of England, and His Majesty to be there in person. Likewise, their proposals and directions to the people, touching the matters of fact against him; and the oath and covenant of the Parliament, concerning His Majesties person, crown, governemnt, and kingdomes.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83749</idno><idno type="EEBO-CITATION">99864896</idno>
+  <idno type="VID">117128</idno>
+  <idno type="EEBO-PROQUEST">2240903963</idno>
+  
+            <idno type="STC">Wing E2628</idno>
+            <idno type="STC">Thomason E537_28</idno>
+            <idno type="STC">ESTC R205547</idno>
+            <idno type="PROQUEST">99864896</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864896e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117128)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new declaration concerning the King, from the Commons of England, assembled at Westminster; and the proclamation of the Lord Generall Fairfax, and the rest of the commissioners appointed for tryall of the King, to be proclaimed by a herald of arms, to the City and kingdom, concerning their sitting in VVestminster Hall this present VVednesday, in order to the tryall, and prosecuting of their charge against Charles Stuart, King of England, and His Majesty to be there in person. Likewise, their proposals and directions to the people, touching the matters of fact against him; and the oath and covenant of the Parliament, concerning His Majesties person, crown, governemnt, and kingdomes.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. VVhite, and are to be sold in the Old-Bayley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 9th. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117128:1"/>
+            <p>A NEW DECLARATION Concerning the KING, <hi>FROM</hi> The <hi>Commons</hi> of <hi>England,</hi> assembled at <hi>Westminster;</hi> AND The Proclamation of the Lord Generall <hi>Fairfax,</hi> and the rest of the Commissioners appointed for tryall of the <hi>King,</hi> to be proclaimed by a Herald of Arms, to the <hi>City</hi> and <hi>Kingdom,</hi> Concerning their sitting in <hi>VVestminster</hi> Hall this present <hi>VVednesday,</hi> in order to the Tryall, and prosecuting of their <hi>Charge,</hi> against <hi>Charles Stuart,</hi> King of <hi>England;</hi> and His <hi>Majesty</hi> to be there in person.</p>
+            <p>Likewise, their Proposals and Directions to the People, touching the matters of Fact against Him; and the <hi>Oath</hi> and <hi>Covenant</hi> of the Parliament, concer<g ref="char:EOLhyphen"/>ning His Majesties person, Crown, Go<g ref="char:EOLhyphen"/>vernment, and Kingdomes.</p>
+            <p>
+               <add>Jan: 9<seg rend="sup">th.</seg> 1648</add> Printed for <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. VVhite,</hi> and are to be sold in the Old-Bayley.</p>
+            <pb facs="tcp:117128:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117128:2"/>
+            <head>The further RESOLVTION OF THE ARMY AND A New Declaration concerning the <hi>King,</hi> and the Nobility of the Realm, and rhe Oath and protestation of the Commont of <hi>England,</hi> touching his Majesty.</head>
+            <div type="part">
+               <p>
+                  <hi>THE</hi> Commons of <hi>England</hi> have finished the great Order for tryall of the <hi>King,</hi> and ordered it to bee forthwith ingrossed, the Bill of Attainder runs thus; <hi>That Charles Stewart hath acted contrary to his trust, in departing from the Parliament setting up his Standard making a war against them, and thereby been occasion of much bloodshed and misery to the people, whom he was set over for good: That he gave Commissions to</hi>
+                  <pb n="2" facs="tcp:117128:3"/>
+                  <hi>Irish Rebells, &amp;c. and sines was occasion of a second war, &amp;c besides acted contrary to the Liberties of the Sbuject, all which tends to a forfeiture of His Trust.</hi>
+               </p>
+               <p>And then the <hi>House</hi> groceeded to a Declaration concer<g ref="char:EOLhyphen"/>ning the Legislative power, and how it is originally not in the <hi>King,</hi> nor <hi>Lords,</hi> but in the <hi>Commons.</hi>
+               </p>
+               <p>And upon further debate thereof, the House agreed upon these ensuing Votes following.</p>
+               <p>
+                  <hi>Resolved,</hi> That the Commons of <hi>England</hi> assembled in Parliament do declare, That the people, under God, are the originall of all just powers.</p>
+               <p>
+                  <hi>Resolved,</hi> That the Commons of <hi>England</hi> assembled in Parliament, do further declare, That whereas they being chosen by, &amp; representing the people, they have the supream Authority of this Nation.</p>
+               <p>
+                  <hi>Resolved,</hi> That they do likewise declare, That whatsoever is Enacted and declared for Law, by the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> assembled in Parliament, hath the force of Law, and all the people of this Nation are included thereby, although the consent and concurrence of the King and House of Peers be not had thereunto.</p>
+               <p>The Ordinance for tryal of the King is compleated, and an Expedient is to be brought in for setling of the King<g ref="char:EOLhyphen"/>dome.</p>
+               <p>The Scots Commissioners have represented and declared (to the Commons of <hi>England)</hi> the Sense and Desires of the kingdom of <hi>Scotland,</hi> pressing much for unity of Councels between the two kingdoms according to the Covenant, and that the House would not proceed to try or execute the king without the advice of that Nation; to which declara<g ref="char:EOLhyphen"/>tory expressions, the house returned no answer, but are re<g ref="char:EOLhyphen"/>solved to execute Justice, and to establish Peace and Righ<g ref="char:EOLhyphen"/>teousnesse.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:117128:3"/>
+               <head>A Declaration from Windsor.</head>
+               <p>Sir, Ince his Majesties comming to this Castle, hee hath had extraordinary good accommodation in all neces<g ref="char:EOLhyphen"/>saries whatsoever; insomuch, that hee is exceedingly taken with the gallant and civill deportment of the Officers and Souldiery, as appeareth by his own Demonstrations and Representation, to divers members of the Army, who pro<g ref="char:EOLhyphen"/>tested. That he never saw men better disciplin'd, and more obedient and respective to the power and command of their Officers, then the private Souldiery.</p>
+               <p>Remonstrating, that he desired nothing more, then a speedy promoting of a right understanding between his <hi>Majesty,</hi> and the Lord Generall; to the end, that all difference, jealousie, and suspition might be removed, and mutual concord and amity planted in the place thereof; which that it may bee effected, his <hi>Majesty</hi> doth further remonstrate, That he shall leave no means unassayed, for the satisfying of all interests both to <hi>Kingdom</hi> and <hi>Army,</hi> desiring that the Sword may be sheathed, the Subiect eased, the <hi>Kingdom</hi> setled, himself re<g ref="char:EOLhyphen"/>inthroned, and the <hi>Army</hi> disbanded; which (indeed) will not be assented to, till assurance be given of future liberty and safety.</p>
+               <p>The <hi>King</hi> being told by a Gentleman resident here, that (in all probability) his person would be suddenly removed to <hi>London,</hi> his <hi>Majesty</hi> replyed, That he had oftentimes desired to fix his eyes on that <hi>Metropolis,</hi> conceiving that the <hi>Army</hi> would have long before, established him there in tryumph, but now he fears White-hall will prove his wofull object of ruine and desolation. But indeed, tyrannicall actions, de<g ref="char:EOLhyphen"/>serves severe and condigne punishment, the well-affected throughout the kingdom thirsting after the same.</p>
+               <closer>
+                  <dateline>VVindsor <date>9 Jan. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:117128:4"/>
+               <head>Proposals touching his Majesty.</head>
+               <p>First, That by the common law of the Realm, the stat. of 25 <hi>E.</hi> 3. and all other Acts concerning Treason, it is no lesse then high treason for any man to compasse or imagine the deposition or death of the King, or of his eldest Sonne and heire, though it be never executed, much more if actually accomplished, and that many have been arraigned, condem<g ref="char:EOLhyphen"/>ned, and executed, for such intended treasons in former ages, as the E. of <hi>Arundell,</hi> and others, by judgment in Parl.</p>
+               <p>Secondly, That in the Oath of Allegiance whlch you have all taken, immediatly before your admission into the house as Members; You do truly and sincerely acknowledge, pro<g ref="char:EOLhyphen"/>fesse, testifie and declare in your consciences, before God &amp; the World, That our Soveraign Lord King <hi>Charles,</hi> is law<g ref="char:EOLhyphen"/>full and rightfull King of this Realme, and of all other his Maj. Dominions and Countries.</p>
+               <p>Thirdly, That your selves, among other members, have in above one hundred Remonstrances and Declarations, pro<g ref="char:EOLhyphen"/>fessed, both to the King himself, kingdom, world, &amp; forraign States, that you never intended the least hurt, injury, or vio<g ref="char:EOLhyphen"/>lence to the Kings person, Crown, Dignity, or Posterity; but intended to him and his Royal posterity, more honour, hap<g ref="char:EOLhyphen"/>pinesse, greatnesse, and glory, then ever was yet enjoyed by a<g ref="char:EOLhyphen"/>ny of his Predecessors, that you have proposed no other ends to your selves, but the performance of all duty and loyalty to his Maj. person, That his personal safety, honour, &amp; great<g ref="char:EOLhyphen"/>nesse, are much dearer to you then your own lives and for<g ref="char:EOLhyphen"/>tunes, which you do most heartily dedicate, and shall most willingly imploy for the maintenance and support thereof, That the Parl. will ever have a care to prevent any danger which his Majesty may justly apprehend to his person: with many other such like expressions. Which, whether your present Actings and Councels do not directly oppose,
+<pb n="5" facs="tcp:117128:4"/> contradict and give the lye unto, to your eternal infamy, and breach of publike faith, as much as in you lies, let the world and all men judge; as they will do in due season. The rule in the Old Testament is, not to take any wicked Kings from their Thrones, and behead them: but <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roverbs the</hi> 25: 5:) <hi>Take away the wicked from before the King, and his Throne shall be established in Righteousnesse.</hi> And the rule in the new Testament. <hi>To be subject to Kings, and the higher powers, and to submit vnto them, even for Conscience and the Lords sake: and to make prayers, supplications, and intercessions for them, that under them we may lead a quiet and peaceable life, in all godlinesse and honesty: for this is good and acctptable in the sight of God our Saviour:</hi> not to depose or shed their bloud, for which there is no precept. And is not this plain way of God, the safest for you and the Army to follow, yea the on<g ref="char:EOLhyphen"/>ly short cut to peace and settlement? Ruminate upon it, and then be wise both for your soules good, and the wel<g ref="char:EOLhyphen"/>fare of poor <hi>England.</hi>
+               </p>
+               <p>Fourthly, Remember, that no protestant King or State, ever yet defiled their hands, or stained the purity and honour of their Reformed Religion with the deposition, or bloud of a<g ref="char:EOLhyphen"/>ny of their Kings and Princes, much lesse of a protestant <hi>King</hi> or <hi>Prince,</hi> of a temperate and sober life, as the <hi>King</hi> is; who never imbrued his own hand in any one mans bloud, in any tyrannical or bloudy way before or since the warres (for ought I can hear) but only in a Military.</p>
+               <p>Fifthly, Consider, that the Scots delivered the <hi>King</hi> to our Commis. at <hi>Newcastle,</hi> upon this expresse condition, <hi>That no violence should be offered to his person, &amp;c.</hi> according to the <hi>Covenant.</hi> How then can you un-king, depose him, or take a<g ref="char:EOLhyphen"/>way his life upon pretext of Justice, which if you do, you ingage both kingdoms to war against you, and to crown the Prince of <hi>VVales</hi> their <hi>King,</hi> as being next heir apparent.</p>
+               <closer>
+                  <signed>WIL: PRYN.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:117128:5"/>
+               <head>A Proclamation concerning the King.</head>
+               <p>Munday the 8 of this instant, the Lord Gen. <hi>Fairfax,</hi> and the rest of the Commissioners appointed for the tryall of <hi>Charles Stewart</hi> king of <hi>England,</hi> met in the painted Cham<g ref="char:EOLhyphen"/>ber at Westminster, about 3 of the clock in the afternoon, and after some debate touching the tryall of his Majesty, they came to this Resolution, <hi>viz.</hi> That on Wednesday mor<g ref="char:EOLhyphen"/>ning a Herauld should be appointed to make proclamation, and proclaime throughout City and Country, <hi>That the Commons of England assembled in Parliament, and the Com<g ref="char:EOLhyphen"/>missioners for tryall of the King, Do (in the name of themselvs, and the free-born people of this Nation) declare, That all per<g ref="char:EOLhyphen"/>sons whatsoever, who have any matter of Fact, against</hi> Charles Stuart, <hi>King of</hi> England, <hi>are desired, and invited, to bring in their Charges, on VVednesday the</hi> 10 <hi>of this instant</hi> January, <hi>to the said Commissioners sitting in VVestminster-Hall, for tri<g ref="char:EOLhyphen"/>all of the King, to the end, that Iustice may be executed, and peace and Righteousnesse established.</hi>
+               </p>
+               <p>Having thus named the time and place, his <hi>Majesty</hi> is ex<g ref="char:EOLhyphen"/>pected to be sent for from <hi>Windsor,</hi> this present Tuesday, and to be brought to Westminster to morrow, in order to his Tryall.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
